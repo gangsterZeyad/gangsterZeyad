@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Zeyad Hussein 👋</h2>
 
 <h3 align="center">
-Data Analytics Engineer | BI • Data Engineering • Analytics
+Data & Business Intelligence Engineer | Infrastructure & Insights
 </h3>
 
 <p align="center">
@@ -34,23 +34,24 @@ Turning raw data into insights & business value
 
 ---
 
+
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airbyte/airbyte-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35"/>
 </p>
 
-<p align="center">
-Power BI • SSIS • Pandas • NumPy • Scikit-learn • Spark • Hadoop • Bash
-</p>
 
 ---
 
@@ -63,7 +64,7 @@ Power BI • SSIS • Pandas • NumPy • Scikit-learn • Spark • Hadoop •
 - Delivered insights to improve **collections & risk mitigation**
 - Designed relational databases & ERD using **PostgreSQL**
 
-**Azure Data Engineer Intern — Global Knowledge**  
+**Azure Data Engineer Intern — Ministry of Communications and Information Technology**  
 *Apr 2024 – Oct 2024*
 - Worked with **Azure data ecosystem**
 - Optimized SQL performance & data retrieval
@@ -96,7 +97,7 @@ Power BI • SSIS • Pandas • NumPy • Scikit-learn • Spark • Hadoop •
 ---
 
 ### 📜 Certifications
-- Microsoft Data Engineer — Global Knowledge  
+- Microsoft Data Engineer — MCIT, Egypt 
 - Coursera Machine Learning Specialization  
 - Data Engineering — Kiwilytics  
 
@@ -104,4 +105,5 @@ Power BI • SSIS • Pandas • NumPy • Scikit-learn • Spark • Hadoop •
 
 <p align="center">
 ✨ Data-driven mindset • Clean pipelines • Real business impact ✨
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height="20"/>
 </p>
